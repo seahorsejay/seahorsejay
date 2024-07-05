@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seahorsejay
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning advanced python
+- 🌱 A Mobile developer in Android . 
 - 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me kunchapujayaprakash@gmail.com
 
